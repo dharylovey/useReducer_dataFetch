@@ -1,6 +1,6 @@
 import React from 'react'
 
-const DemoButton = () => {
+const Hero = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const DemoButton = () => {
   )
 }
 
-export default DemoButton
+export default Hero
